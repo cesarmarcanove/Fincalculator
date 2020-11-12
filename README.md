@@ -4,7 +4,7 @@ Calculadora Financiera Básica, una forma de calcular sencilla y de forma precis
 
 # Instalacion de Fuente
 
-Instalen la fuente llamada: **NICKAINLEY-NORMAL.TTF** en el Directorio de Windows: **C:\Windows\Fonts** ... o haciendo clic el archivo TTF y da clic boton secundario en "Instalar" una vez descargado.
+Instalen la fuente llamada: **NICKAINLEY-NORMAL.TTF** se encuentra en el Directorio de Windows: **C:\Windows\Fonts** (***NOTA:*** en algunos casos lo pueden traer tras la instalacion de Microsoft Office o LibreOffice)... o haciendo clic el archivo TTF y da clic boton secundario en "Instalar" una vez descargado.
 
 Lo descargas desde las páginas web:
 
