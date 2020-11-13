@@ -1,4 +1,4 @@
-[Vista Preliminar](https://github.com//cesarmarcanove/Fincalculator/fincalculator_HD.jpg?raw=true)
+[Vista Preliminar](https://github.com/cesarmarcanove/Fincalculator/fincalculator_HD.jpg)
 
 # Fincalculator
 
