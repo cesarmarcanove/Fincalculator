@@ -1,4 +1,4 @@
-[Vista Preliminar](/fincalculator_HD.jpg)
+![Screenshot](/fincalculator_HD.jpg)
 
 # Fincalculator
 
