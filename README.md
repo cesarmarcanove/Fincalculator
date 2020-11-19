@@ -4,6 +4,22 @@
 
 Calculadora Financiera Básica, una forma de calcular sencilla y de forma precisa para sus cálculos básicos financieros como: Cálculo de Márgenes de Ganancia y la Porcentual (**muy utilizadas para la gente común y comerciantes**), la depreciación, cálculo del Punto de Equilibrio, cálculo de Tasas de Intereses y Amortizaciones básicas, cálculo del precio total (***¡Incluye Estilo factura en Pantalla!***)
 
+# Imagenes:
+
+![Screenshot](/fincalculator_margen.jpg)
+* Cálculo del Margen de Ganancia y Cálculo del Margen Porcentual (muy usadas por los comerciantes y personas comunes)
+
+![Screenshot](/fincalculator_puntoequilibrio.jpg)
+* Cálculo del Punto de Equilibrio
+
+![Screenshot](/calculo_preciototal_(mercanciasimple).jpg)
+* Cálculo de un producto.
+
+![Screenshot](/calculo_preciototal_(tipofactura).jpg)
+* Cálculo de los productos (**tipo Factura**)
+  **NOTA:*** Para imprimir como este, simplemente solo capturas pantalla con la tecla **Pet Sis** del computador y luego pegas con
+          MS-Word o LibreOFfice, guardas e imprimas. ¡Facil!.
+          
 # Requisitos para programar
 
 **WINDOWS:** Requieren
