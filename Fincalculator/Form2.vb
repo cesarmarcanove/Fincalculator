@@ -35,8 +35,9 @@
 
     Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
         'Limpiar en los ingresos de datos
-        TextCOST.Text = " 0.0 "
-        TextSELL.Text = " 0.0"
+        'Para no afectar con el Error "NaN", añadir con el apóstrofe (') para taparlos
+        'TextCOST.Text = " 0.0 "
+        'TextSELL.Text = " 0.0"
 
         'Limpiar Pantalla en los resultados
         TextMAR.Text = " 0.0 "
