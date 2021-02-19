@@ -163,7 +163,7 @@ Partial Class Form2
         Me.TextSELL.Name = "TextSELL"
         Me.TextSELL.Size = New System.Drawing.Size(174, 20)
         Me.TextSELL.TabIndex = 3
-        Me.TextSELL.Text = "619299.93"
+        Me.TextSELL.Text = "1238899,86"
         Me.TextSELL.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextCOST
@@ -173,7 +173,7 @@ Partial Class Form2
         Me.TextCOST.Name = "TextCOST"
         Me.TextCOST.Size = New System.Drawing.Size(174, 20)
         Me.TextCOST.TabIndex = 2
-        Me.TextCOST.Text = "35000"
+        Me.TextCOST.Text = "731899,97"
         Me.TextCOST.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'Label2
